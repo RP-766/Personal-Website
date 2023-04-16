@@ -1,8 +1,8 @@
-# Personal Website Resume for Computer Science 
+# Personal Website Resume For Computer Science
 
+[Click to Access Website](https://rp-766.github.io/Personal-Website/)
 
-
-
+![website](https://user-images.githubusercontent.com/70770613/232347049-fcc39545-eef2-4228-aecb-69676dc5daa8.png)
 
 
 
